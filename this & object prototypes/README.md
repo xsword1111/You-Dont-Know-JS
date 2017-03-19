@@ -7,10 +7,10 @@
 
 -----
 
-[Table of Contents](toc.md)
+[目录](toc.md)
 
-* [Foreword](foreword.md) (by [Nick Berardi](https://github.com/nberardi))
-* [Preface](../preface.md)
+* [前言](foreword.md) (by [Nick Berardi](https://github.com/nberardi))
+* [序](../preface.md)
 * [第1章:*this*或That?](ch1.md)
 * [第2章:*this*All Makes Sense Now!](ch2.md)
 * [第3章:对象](ch3.md)
