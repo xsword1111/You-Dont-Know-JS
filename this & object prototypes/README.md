@@ -1,5 +1,4 @@
-# You Don't Know JS: *this* & Object Prototypes
-
+# You Don't Know JS: *this* 与对象原型
 <img src="cover.jpg" width="300">
 
 -----
@@ -12,11 +11,11 @@
 
 * [Foreword](foreword.md) (by [Nick Berardi](https://github.com/nberardi))
 * [Preface](../preface.md)
-* [Chapter 1: *this* Or That?](ch1.md)
-* [Chapter 2: *this* All Makes Sense Now!](ch2.md)
-* [Chapter 3: Objects](ch3.md)
-* [Chapter 4: Mixing (Up) "Class" Objects](ch4.md)
-* [Chapter 5: Prototypes](ch5.md)
-* [Chapter 6: Behavior Delegation](ch6.md)
-* [Appendix A: ES6 *class*](apA.md)
-* [Appendix B: Thank You's!](apB.md)
+* [第1章:*this*或That?](ch1.md)
+* [第2章:*this*All Makes Sense Now!](ch2.md)
+* [第3章:对象](ch3.md)
+* [第4章:Mixing (Up) "Class" Objects](ch4.md)
+* [第5章:原型](ch5.md)
+* [第6章:行为代理](ch6.md)
+* [附录A: ES6 *class*](apA.md)
+* [附录B: Thank You's!](apB.md)
