@@ -1,10 +1,11 @@
-# You Don't Know JS: *this* & Object Prototypes
-# Chapter 3: Objects
+# You Don't Know JS: *this* 与对象原型
+# 第3章: 对象
 
 In Chapters 1 and 2, we explained how the `this` binding points to various objects depending on the call-site of the function invocation. But what exactly are objects, and why do we need to point to them? We will explore objects in detail in this chapter.
 
-## Syntax
+在第1章和第2章，我们解释了依赖于不同的函数调用点（call-site），‘this’是如何绑定到各种对象的。
 
+## 语法规则
 Objects come in two forms: the declarative (literal) form, and the constructed form.
 
 The literal syntax for an object looks like this:
