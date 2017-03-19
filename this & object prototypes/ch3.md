@@ -31,7 +31,8 @@ The constructed form and the literal form result in exactly the same sort of obj
 
 **Note:** It's extremely uncommon to use the "constructed form" for creating objects as just shown. You would pretty much always want to use the literal syntax form. The same will be true of most of the built-in objects (see below).
 
-## Type
+## 类型
+
 
 Objects are the general building block upon which much of JS is built. They are one of the 6 primary types (called "language types" in the specification) in JS:
 
@@ -52,8 +53,7 @@ By contrast, there *are* a few special object sub-types, which we can refer to a
 
 Arrays are also a form of objects, with extra behavior. The organization of contents in arrays is slightly more structured than for general objects.
 
-### Built-in Objects
-
+### 内置对象
 There are several other object sub-types, usually referred to as built-in objects. For some of them, their names seem to imply they are directly related to their simple primitives counter-parts, but in fact, their relationship is more complicated, which we'll explore shortly.
 
 * `String`
