@@ -3,12 +3,14 @@
 
 In Chapters 1 and 2, we explained how the `this` binding points to various objects depending on the call-site of the function invocation. But what exactly are objects, and why do we need to point to them? We will explore objects in detail in this chapter.
 
-在第1章和第2章，我们解释了依赖于不同的函数调用点（call-site），‘this’是如何绑定到各种对象的。
+在第1章和第2章，我们解释了‘this’绑定是如何根据不同的函数调用位置（call-site）指向到各种对象的。但究竟什么是对象，以及我们为什么要指向他们？我们会在本章详细探讨对象。
 
 ## 语法规则
 Objects come in two forms: the declarative (literal) form, and the constructed form.
+对象有两种形式：声明式（字面）形式与构造形式。
 
 The literal syntax for an object looks like this:
+对象的字面语法看上去像这样：
 
 ```js
 var myObj = {
@@ -18,6 +20,7 @@ var myObj = {
 ```
 
 The constructed form looks like this:
+对象的构造形式则看上去像这样：
 
 ```js
 var myObj = new Object();
